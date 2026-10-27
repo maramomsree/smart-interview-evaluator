@@ -1,5 +1,5 @@
 # 🎯 Smart Interview Answer Evaluator
-
+https://smart-interview-evaluator-dwzev6q8jrmamcxniayh4l.streamlit.app/
 A local Streamlit app for practicing technical interview questions. You answer in your own words and get
 transparent, concept-based feedback: what you covered, what you missed, how the score was calculated, and a
 model answer to learn from. Your progress is stored in a local SQLite database.
